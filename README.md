@@ -29,8 +29,7 @@ o	Scripts for extracting data to perform the above analyses.
    
 o	Includes:
 
-	CSV files of data extracted from SQL queries.
-  Visualizations (line charts, bar charts) for rental trends, peak hours, popular films, and film categories created in Excel.
+	CSV files of data extracted from SQL queries and Visualizations (line charts, bar charts) for rental trends, peak hours, popular films, and film categories created in Excel.
 
 4. Report:
     
